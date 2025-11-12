@@ -38,7 +38,7 @@ const SliderSection = () => {
   };
 
   return (
-    <section className="py-20 bg-secondary/30">
+    <section className="py-20 bg-secondary/30 animate-fade-up animation-delay-200">
       <div className="container mx-auto px-4">
         <div className="relative">
           <div className="grid md:grid-cols-2 gap-12 items-center">

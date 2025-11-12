@@ -4,7 +4,7 @@ import heroImage from "@/assets/hero-bus.jpg";
 
 const Hero = () => {
   return (
-    <section id="home" className="pt-32 pb-20 bg-gradient-hero">
+    <section id="home" className="pt-32 pb-20 bg-gradient-hero animate-fade-up">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
